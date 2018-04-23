@@ -48,7 +48,7 @@ case $osmajor in
     osname=HighSierra
     ;;
 *)
-    echo Warning: unknown OS version
+    echo 'Warning: Unknown OS version.'
     ;;
 esac
 #
