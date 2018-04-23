@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 urisvn=https://svn.macports.org/repository/macports/trunk/www/includes/common.inc
 uridist=https://distfiles.macports.org/MacPorts
