@@ -39,6 +39,14 @@ case $osmajor in
     osvers=10.11
     osname=ElCapitan
     ;;
+16)
+    osvers=10.12
+    osname=Sierra
+    ;;
+17)
+    osvers=10.13
+    osname=HighSierra
+    ;;
 *)
     echo Warning: unknown OS version
     ;;
